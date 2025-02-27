@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --cor-principal:#A81259;
+    --cor1:#a81259;
+    --cor2:#964198;
+    --cor3:#5d68c4;
+    --cor4:#0087d4;
+    --preto:#000000;
+    --branco:#FFFFFF;
+}
+body{
+    font-size: 1rem;
+    font-family: 'Merriweather'; /*o nome da fonte*/
+}
