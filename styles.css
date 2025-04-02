@@ -15,6 +15,40 @@ body{
     font-family: 'Merriweather'; /*o nome da fonte*/
 }
 
+section {
+    padding-bottom: 5rem;
+}
+
+.display-4 {
+    text-shadow: #5d68c4;
+}
+
+#poemas {
+    position: relative;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    background: var(--cor2);
+    background-size: 180px 180px;
+}
+
+#poemas .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1; /*garante que o conteudo fica acima das imagens de backgronde se houverem */
+}
+
+
+
+
+
+
+
+
+
+
+
 #contato {
     background: var(--cor-principal);
     background-size: cover;
