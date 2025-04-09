@@ -19,6 +19,9 @@ section {
     padding-bottom: 5rem;
 }
 
+.logotipo{
+    width: 150px;
+}
 .nav-link{
     color: var(--preto);
     font-weight: 600;
